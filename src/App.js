@@ -7,6 +7,7 @@
  *
  * Let's make the background color blue
  */
+import styled from 'styled-components/macro'
 
 export default function App() {
   return (
